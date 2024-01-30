@@ -2,7 +2,7 @@
 
 Data structure class - UESB
 
-Professor: Helio
+Teacher: Helio Lopes
 
 João Paulo Sandes Brito
 
