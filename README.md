@@ -2,7 +2,7 @@
 
 Data structure class - UESB
 
-Teacher: Helio
+Professor: Helio
 
 João Paulo Sandes Brito
 
@@ -10,12 +10,12 @@ Codes developed in order to demonstrate basic knowledge in Data Structure (JAVA)
 
 It uses concepts such as:
 
-Arrays e ArrayLists: Estruturas de dados para armazenar elementos de maneira sequencial.
+- Arrays and ArrayLists: Data structures for storing elements sequentially.
 
-Listas Encadeadas: Estruturas de dados onde os elementos são armazenados em nós, cada um contendo um valor e uma referência ao próximo nó.
+- Linked Lists: Data structures where elements are stored in nodes, each containing a value and a reference to the next node.
 
-Pilhas (Stacks): Estruturas de dados Last In First Out (LIFO), onde o último elemento adicionado é o primeiro a ser removido.
+- Stacks: Last In First Out (LIFO) data structures, where the last element added is the first to be removed.
 
-Filas (Queues): Estruturas de dados First In First Out (FIFO), onde o primeiro elemento adicionado é o primeiro a ser removido.
+- Queues: First In First Out (FIFO) data structures, where the first element added is the first to be removed.
 
-Árvores: Estruturas de dados hierárquicas que consistem em nós conectados por arestas, com um nó principal chamado de raiz.
+- Trees: Hierarchical data structures consisting of nodes connected by edges, with a main node called the root.
